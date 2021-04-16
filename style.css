@@ -1,0 +1,12 @@
+#login_div_2{
+    margin-top: 25px;
+}
+
+input{
+    width: 1000px;
+}
+
+body{
+    background-image: radial-gradient(#00ffff, #00ff00);
+    font-family: 'Zen Dots', cursive;
+}
